@@ -5,7 +5,7 @@ Created on Sat May  1 14:32:51 2021
 @author: Fernando
 """
 
-dictionary = 'Dark_elven.txt'
+dictionary = 'Ancient_greek.txt'
 
 with open('NamesFiles/' + dictionary, 'r') as f:
     data = f.read()
